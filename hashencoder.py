@@ -58,9 +58,9 @@ __banner__ = b+"""
 ▒▌▐▒▒██▄▀██████▀▄██▒▒▒           
 ▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒           
 ▐┼▐▒▒██████████████▒▒▒       ONLINE HASH ENCODE          
-▐▄▐████─▀▐▐▀█─█─▌▐██▄▒       created by @darknet_off1cial    
-▒▒█████──────────▐███▌       telegram channel: @termux_uz_private  
-▒▒█▀▀██▄█─▄───▐─▄███▀▒       telegram channel2: @dn_uzbek    
+▐▄▐████─▀▐▐▀█─█─▌▐██▄▒       created by @janob_darknet    
+▒▒█████──────────▐███▌       telegram channel: @kalinethunteruz 
+▒▒█▀▀██▄█─▄───▐─▄███▀▒           
 ▒▒█▒▒███████▄██████▒▒▒         
 ▒▒▒▒▒██████████████▒▒▒           
 ▒▒▒▒▒██████████████▒▒▒       ┳┈┳ ┏━┓ ┏━┓ ┳┈┳          
@@ -69,7 +69,7 @@ __banner__ = b+"""
 ▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒            
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒             
 """
-__muallif__ = a+"""\tkanalimiz: @darknet_off1cial\n\tdasturchi: @master_darknet"""
+__muallif__ = a+"""\tkanalimiz: @KaliNethunterUz\n\tdasturchi: @janob_darknet"""
 
 clearscreen()
 print(__banner__)
